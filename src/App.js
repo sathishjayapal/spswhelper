@@ -1,7 +1,7 @@
 import { Fragment } from 'react';
 
-import Header from '/components/Layout/Header';
-import DevelopmentDetails from '/components/DevelopmentDetails/DevelopmentDetails';
+import Header from './components/Layout/Header';
+import DevelopmentDetails from './components/DevelopmentDetails/DevelopmentDetails';
 
 function App() {
     return (
